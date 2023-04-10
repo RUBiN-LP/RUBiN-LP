@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubin Patterson Jr.</h1>
+<h1 align="center">Hi 😁, I'm Rubin Patterson Jr.</h1>
 <h2 align="center">Current Desktop Support Technician, looking to break into the Data Analyst community!</h3>
 
 
