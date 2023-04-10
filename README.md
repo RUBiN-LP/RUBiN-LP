@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rubin Patterson Jr.</h1>
-<h3 align="center">Current Desktop Support Technician, looking to break into the Data Analyst community!</h3>
+<h2 align="center">Current Desktop Support Technician, looking to break into the Data Analyst community!</h3>
+
+
+### I have been in the desktop support and computer repair industry and am looking for a change of pace. Data Analysis is a new found passion of mine and I'm looking forward to exploring this world further!
 
 - 👨‍💻 All of my projects are available at [https://github.com/RUBiN-LP](https://github.com/RUBiN-LP)
 
